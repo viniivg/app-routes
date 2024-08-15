@@ -28,8 +28,8 @@ Siga os passos abaixo para clonar e rodar o projeto no seu ambiente local.
 1. ****Clone o repositório:****
 
     ```bash 
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/viniivg/app-routes.git
+    cd app-routes
     ```
 
 2. ****Instale as dependências:****
